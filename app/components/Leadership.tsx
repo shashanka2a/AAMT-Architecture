@@ -5,14 +5,14 @@ const leaders = [
     id: 1,
     name: "Abdul Allam",
     title: "Principal",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
+    image: "/Abdul.png",
     bio: "Co-founder and Principal with over 20 years of experience in modern architectural design and urban planning throughout South Florida."
   },
   {
     id: 2,
     name: "Quincy Brown",
     title: "Principal",
-    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face",
+    image: "/quincy.png",
     bio: "Co-founder and Principal specializing in innovative commercial and residential architecture with a focus on sustainable design solutions."
   }
 ];
