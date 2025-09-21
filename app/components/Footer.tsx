@@ -9,11 +9,11 @@ export function Footer() {
           <div>
             <div className="flex items-center space-x-2 mb-6">
               <Building className="w-8 h-8 text-green-400" />
-              <span className="text-xl font-semibold">AAMT Architecture</span>
+              <span className="text-xl font-semibold">AAMT Architecture Miami</span>
             </div>
             <p className="text-gray-300 mb-4 leading-relaxed">
-              Creating innovative architectural solutions for over 20 years. 
-              Focused on sustainable design and client satisfaction.
+              Miami&apos;s premier architecture firm creating innovative design solutions for over 20 years. 
+              Specializing in modern residential, commercial, and urban design throughout South Florida.
             </p>
             <div className="flex space-x-4">
               <div className="w-10 h-10 bg-green-600 rounded-full flex items-center justify-center hover:bg-green-700 cursor-pointer transition-colors">
@@ -76,7 +76,7 @@ export function Footer() {
         <div className="border-t border-gray-700 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-gray-400 text-sm">
-              © 2024 AAMT Architecture. All rights reserved.
+              © 2024 AAMT Architecture Miami. All rights reserved.
             </p>
             <div className="flex space-x-6 text-sm text-gray-400">
               <a href="#" className="hover:text-green-400 transition-colors">Privacy Policy</a>
