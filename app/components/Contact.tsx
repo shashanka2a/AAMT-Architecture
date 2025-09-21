@@ -110,21 +110,21 @@ export function Contact() {
                     <MapPin className="w-6 h-6 text-green-600 mt-1" />
                     <div>
                       <p className="font-medium text-gray-900">Address</p>
-                      <p className="text-gray-600">123 Design Street<br />Miami, FL 33101</p>
+                      <p className="text-gray-600">201 SE 2nd Ave<br />Miami, FL 33131</p>
                     </div>
                   </div>
                   <div className="flex items-start space-x-4">
                     <Phone className="w-6 h-6 text-green-600 mt-1" />
                     <div>
                       <p className="font-medium text-gray-900">Phone</p>
-                      <p className="text-gray-600">+1 (305) 123-4567</p>
+                      <p className="text-gray-600">(305) 927-5330</p>
                     </div>
                   </div>
                   <div className="flex items-start space-x-4">
                     <Mail className="w-6 h-6 text-green-600 mt-1" />
                     <div>
                       <p className="font-medium text-gray-900">Email</p>
-                      <p className="text-gray-600">info@aamtarchitecture.com</p>
+                      <p className="text-gray-600">info@aamtStudio.com</p>
                     </div>
                   </div>
                 </div>

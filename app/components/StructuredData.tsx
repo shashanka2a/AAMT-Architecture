@@ -7,14 +7,14 @@ export function StructuredData() {
     "url": "https://aamtarchitecture.com",
     "logo": "https://aamtarchitecture.com/logo.png",
     "image": "https://aamtarchitecture.com/portfolio/portfolio-001.jpg",
-    "telephone": "+1-305-123-4567",
-    "email": "info@aamtarchitecture.com",
+    "telephone": "(305) 927-5330",
+    "email": "info@aamtStudio.com",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "123 Design Street",
+      "streetAddress": "201 SE 2nd Ave",
       "addressLocality": "Miami",
       "addressRegion": "FL",
-      "postalCode": "33101",
+      "postalCode": "33131",
       "addressCountry": "US"
     },
     "geo": {

@@ -58,15 +58,15 @@ export function Footer() {
             <div className="space-y-4 text-gray-300">
               <div className="flex items-start space-x-3">
                 <MapPin className="w-5 h-5 text-green-400 mt-1 flex-shrink-0" />
-                <span>123 Design Street<br />Miami, FL 33101</span>
+                <span>201 SE 2nd Ave<br />Miami, FL 33131</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="w-5 h-5 text-green-400 flex-shrink-0" />
-                <span>+1 (305) 123-4567</span>
+                <span>(305) 927-5330</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="w-5 h-5 text-green-400 flex-shrink-0" />
-                <span>info@aamtarchitecture.com</span>
+                <span>info@aamtStudio.com</span>
               </div>
             </div>
           </div>
